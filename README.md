@@ -1,5 +1,7 @@
 # express-mooc
 
+这个项目的目的的为了学习 express 和 MongoDB 的。
+
 ## Task
 
 - [x] 构建 express 项目并开发第一个 HelloWorld 程序 
@@ -24,3 +26,7 @@ npm start // 记得配置 "scripts": { "start": "nodemon app.js" }
 
 ## 参考资料
 - [Express 官方文档](https://expressjs.com/)
+
+## Images
+
+TODO ...
